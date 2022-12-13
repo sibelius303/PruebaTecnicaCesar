@@ -37,3 +37,12 @@
     transform: rotate(360deg);
   }
 }
+
+.gradient {
+  background: rgb(28,41,56);
+  background: radial-gradient(circle, rgba(28,41,56,1) 0%, rgba(18,26,36,1) 100%);
+}
+
+.borderSeparacion {
+  border-bottom: 1px solid rgb(24,52,76);
+}
